@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  &nbsp;&nbsp; <a href="https://marcushooi.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="marcushooi.com" />
+  &nbsp;&nbsp; <a href="https://marcushooi.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="marcushooi.com" /> &nbsp;&nbsp; <a href="https://linkedin.com/in/marcushooi" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /
 </p>
 
 <br>
