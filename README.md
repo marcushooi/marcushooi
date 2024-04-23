@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marcus</h1>
 <h3 align="center">I'm a Web 3.0 Technical Product Manager and Junior A.I. Developer</h3>
 
+<br>
+
 <h3 align="left">👨‍💻 About Me:</h3>
 
 - 📝 I regularly write about product management on [marcushooi.com](marcushooi.com)
@@ -9,12 +11,16 @@
 
 - 🚀 Early Product Manager hired by **Fisher 8 Capital** for a **Stealth Web 3.0 Start up that raised $20 Million in Feb 2024**
 
-  <h3 align="left">🔨 What I'm Working On</h3>
+<br>
+
+<h3 align="left">🔨 What I'm Working On</h3>
 
 - 🔭 I’m currently
+  
 ```
-1. training my own LLM and building consistent live-like models using Stability AI
-
+1. Training my own LLM and building consistent live-like models using Stability AI
+2. Building an Airdrop farming tool
+3. Completing my masters in NTU
 ```
 
 <br>
