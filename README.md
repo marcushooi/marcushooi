@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Marcus</h1>
 <h3 align="center">I'm a Web 3.0 Technical Product Manager and Junior A.I. Developer</h3>
 
-- 💼 I am also a REP Scholar who finished my final year at Imperial and begining my Masters at Nanayng Technoogical University
+👨‍💻 About Me:
 
-- 🚀 I’m currently as a Product Manager hired by **Fisher 8 Capital** for a **Stealth Web 3.0 Start up that raised $20 Million in Feb 2024**
+- 💼 A REP Scholar who competed my final year at Imperial, starting my Masters at Nanayng Technoogical University
 
-- 🔭 I’m currently working on **training my own LLM and building consistent live-like models using Stability AI**
+- 🚀 Early Product Manager hired by **Fisher 8 Capital** for a **Stealth Web 3.0 Start up that raised $20 Million in Feb 2024**
 
-- 🌱 I’m currently learning **Stability A.I.**
+- 🔭 I’m currently **training my own LLM and building consistent live-like models using Stability AI**
 
 - 📝 I regularly write articles on [marcushooi.com](marcushooi.com)
 
