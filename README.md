@@ -3,8 +3,8 @@
 
 <p align='center'>
 
-<a href="https://www.linkedin.com/in/marcushooi/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcushooi" /></a>
-<a href="https://www.linkedin.com/in/marcushooi/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcushooi" /></a>
+  <a href="https://www.linkedin.com/in/marcushooi/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcushooi" /></a>
+  <a href="https://www.linkedin.com/in/marcushooi/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcushooi" /></a>
 
 </p>
 
