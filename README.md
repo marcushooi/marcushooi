@@ -1,11 +1,12 @@
 <h2 align="center">Hi 👋, I'm Marcus</h1>
 <h3 align="center">I'm a Web 3.0 Technical Product Manager and Junior A.I. Developer</h3>
 
-<center>
+<p align='center'>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcushooi)
+<a href="https://www.linkedin.com/in/marcushooi/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcushooi" /></a>
+<a href="https://www.linkedin.com/in/marcushooi/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcushooi" /></a>
 
-</center>
+</p>
 
 <br>
 
