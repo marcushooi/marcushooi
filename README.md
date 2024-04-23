@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcus</h1>
 <h3 align="center">I'm a Web 3.0 Technical Product Manager and Junior A.I. Developer</h3>
 
-👨‍💻 About Me:
+<h3 align="left">👨‍💻 About Me:</h3>
 
 - 💼 A REP Scholar who competed my final year at Imperial, starting my Masters at Nanayng Technoogical University
 
